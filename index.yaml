@@ -1,0 +1,45 @@
+apiVersion: v1
+entries:
+  comment:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2019-11-23T14:30:37.430847363+03:00"
+    description: OTUS reddit application COMMENT homework
+    digest: f1a9d3ece1c69f0c66d3ea48f0c5b8d22aeae0da254af9a6d95fe5078937a755
+    home: https://github.com/czm41k/helm-charts/
+    maintainers:
+    - email: etselikov@express42.com
+      name: czm41k
+    name: comment
+    urls:
+    - https://raw.githubusercontent.com/fl64/helm-charts-hw/master/comment-1.1.1.tgz
+    version: 1.1.1
+  post:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2019-11-23T14:30:37.431002971+03:00"
+    description: OTUS reddit application POST homework
+    digest: b46308b7e30e5eeeb9898be7840e74d9319fe21682e3d9c99122f2d0eac12dd8
+    home: https://github.com/czm41k/helm-charts/
+    maintainers:
+    - email: etselikov@express42.com
+      name: czm41k
+    name: post
+    urls:
+    - https://raw.githubusercontent.com/fl64/helm-charts-hw/master/post-1.1.1.tgz
+    version: 1.1.1
+  ui:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2019-11-23T14:30:37.431164496+03:00"
+    description: OTUS reddit application UI homework
+    digest: 2cf3e3f6d4cdb3c1c4f5950b1e701373d7d5bae8190bde0f0beabb6568ba5e68
+    home: https://github.com/czm41k/helm-charts/
+    maintainers:
+    - email: etselikov@express42.com
+      name: czm41k
+    name: ui
+    urls:
+    - https://raw.githubusercontent.com/fl64/helm-charts-hw/master/ui-1.1.1.tgz
+    version: 1.1.1
+generated: "2019-11-23T14:30:37.430463764+03:00"
